@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniil 👋</h1>
+<h1 align="center">Hi, I'm Yakodan 👋</h1>
 
 <p align="center">
   <b>Java Developer</b> · JavaScript · C# · PostgreSQL
