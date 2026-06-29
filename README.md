@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=4c72ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=4c72ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square&color=4c72ff" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Yakodan&label=Profile%20views&color=4c72ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Yakodan?style=flat-square&color=4c72ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Yakodan?affiliations=OWNER&style=flat-square&color=4c72ff" alt="Stars" />
 </p>
 
 <p align="center">
